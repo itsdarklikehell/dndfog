@@ -28,6 +28,13 @@ Create battlemaps for tabletop RPGs, like [D&D](https://www.dndbeyond.com/).
 
 ![Example Map](https://github.com/MrThearMan/dndfog/blob/main/docs/img/example-map.png?raw=true)
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/dndfog/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Features
 
 - Infinite grid
